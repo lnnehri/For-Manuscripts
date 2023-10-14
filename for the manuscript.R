@@ -1,5 +1,5 @@
 #this script is for finding common genes between various groups
-#and findinf exclusive genes of NR vs ND+BAF treatment
+#and finding exclusive genes of NR vs ND+BAF treatment
 
 #uploading gene sets:
 
