@@ -15,7 +15,7 @@ list_cyto<-c(#cytoskeleton related genes, Human Gene Set: CYTOSKELETON (https://
 list_EMT<-c(#for EMT related genes, EMTome (http://www.emtome.org/))
     
 #uploading genes from experimental groups:
-  
+ 
 #list_2 stands for NR as control and ND as treatment
 #list_3 stands for NR as control and NR+BAF as treatment
 #list_4 stands for NR as control and ND+BAF as treatment
@@ -23,6 +23,7 @@ list_EMT<-c(#for EMT related genes, EMTome (http://www.emtome.org/))
 ###
   
 #up_down stands for the genes p_adj<.01, and (logFC2>1 or logFC2<-1)
+#the gene lists below were taken from excel sheets of resulted DEGs and added this R code as lists
 
 #
 list_2_up_down<-c(#gene list)
